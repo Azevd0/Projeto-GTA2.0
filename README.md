@@ -1,2 +1,2 @@
 # Projeto-GTA
- Versionando o projeto para corrigir problema de responsividade com o parágrafo da div "informacoes"
+ Versionando o projeto para corrigir problema de responsividade com o parágrafo da div "informacoes".
