@@ -1,0 +1,59 @@
+@media (max-width: 940px) {
+    .cabecalho {
+        justify-content: center;
+        flex-direction: column;
+        padding: 50px 0;
+        gap: 15px;
+    }
+
+    .cabecalho .menu li a {
+        padding: 15px;
+    }
+
+    .home .informacoes {
+        padding: 30px;
+    }
+
+    .home .informacoes img {
+        max-width: 100px;
+    }
+
+    .home .informacoes .titulo {
+        font-size: 40px;
+    }
+
+    .compreja .cartao {
+        width: 70%;
+    }
+}
+
+@media (max-width: 705px) {
+    .compreja {
+        padding: 30px;
+    }
+    .compreja .cartao h3 {
+        font-size: 45px;
+    }
+    .compreja .cartao p{
+        font-size: 1.5em;
+    }
+    .compreja .cartao {
+        padding: 80px 20px;
+        width: 100%;
+    }
+
+    .btn-plataforma {
+        margin-top: 15px;
+        padding: 15px;
+    }
+
+    .btn-comprar {
+        width: 100%;
+    }
+}
+
+@media (max-width: 425px) {
+    .compreja .cartao .capa-do-jogo {
+        max-width: 80%;
+    }
+}
